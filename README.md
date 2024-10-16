@@ -78,8 +78,8 @@ int main() {
 }
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/6b00cd61-ed11-4e3f-8ddd-d7ef1d798d22)
 
+![exp10 cryp](https://github.com/user-attachments/assets/e4859a0b-378f-48e3-9a25-0367f16eba90)
 
 ## Result:
 Thus the Diffie-Hellman key exchange algorithm had been successfully implemented using C.
